@@ -1,0 +1,19 @@
+{
+  "name": "gtm-coach",
+  "version": "0.1.0",
+  "description": "Conversational-intelligence sales coach. Discovers any connected meeting-recording tool, builds a long-horizon local memory bank from call summaries and transcripts, and coaches GTM strategy and execution for sales leaders and executives using the SPICED framework.",
+  "author": {
+    "name": "Robert Li"
+  },
+  "keywords": [
+    "sales",
+    "gtm",
+    "conversational-intelligence",
+    "sales-coaching",
+    "revenue",
+    "spiced",
+    "pipeline",
+    "forecast"
+  ],
+  "license": "MIT"
+}
